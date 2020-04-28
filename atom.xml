@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-26T09:21:43.437Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>deploy issue</title>
+    <link href="http://yoursite.com/2020/04/26/deploy-issue/"/>
+    <id>http://yoursite.com/2020/04/26/deploy-issue/</id>
+    <published>2020-04-26T09:21:43.000Z</published>
+    <updated>2020-04-26T09:21:43.437Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test again</title>
+    <link href="http://yoursite.com/2020/04/25/test-again/"/>
+    <id>http://yoursite.com/2020/04/25/test-again/</id>
+    <published>2020-04-26T01:31:16.000Z</published>
+    <updated>2020-04-26T01:31:16.952Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2020/04/25/test/"/>
+    <id>http://yoursite.com/2020/04/25/test/</id>
+    <published>2020-04-25T22:16:01.000Z</published>
+    <updated>2020-04-25T22:16:01.222Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Time-related concepts in ISO 26262</title>
+    <link href="http://yoursite.com/2020/04/01/Time-related-concepts-in-26262/"/>
+    <id>http://yoursite.com/2020/04/01/Time-related-concepts-in-26262/</id>
+    <published>2020-04-01T20:47:32.000Z</published>
+    <updated>2020-04-26T02:26:54.921Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="3-35-Diagnostic-test-time-interval-DTTI"><a href="#3-35-Diagnostic-test-time-interval-DTTI" class="headerlink" title="3.35 Diagnostic test time interval (DTTI)"></a>3.35 Diagnostic test time interval (DTTI)</h2><p>Amount of time between the executions of online diagnostic tests by a safety machanism (3.142) including duration of the execution of an online diagnostic test</p><p><img src="/images/ISO_fig5.png" alt><br>hahaha<br><img src="/2020/04/01/Time-related-concepts-in-26262/ISO_fig5.png" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;3-35-Diagnostic-test-time-interval-DTTI&quot;&gt;&lt;a href=&quot;#3-35-Diagnostic-test-time-interval-DTTI&quot; class=&quot;headerlink&quot; title=&quot;3.35 Diagnosti
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
